@@ -6,15 +6,13 @@
 
 
 .nav {
-    position: sticky;
-    height: 85px;
-    top:0px;
-    padding-left: 25px;
-    padding-right: 25px;
+    position: sticky; top:0px;
+    height: 70px;
+    padding: 5px 20px 5px 20px;
     font-size: 20px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: right;
-    padding-top: 10px;
+    
     background-image: linear-gradient(to right, #0fb2fd 0%, #184fad 100%);
     
     
